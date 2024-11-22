@@ -58,7 +58,7 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
 ```
 **Clona el repositorio en tu máquina local:**
 ```bash
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   git clone https://github.com/Link19661/APIGestionCuentaBancaria.git
    cd tu-repositorio
 ```
 **Restaurar las dependencias del proyecto:**
