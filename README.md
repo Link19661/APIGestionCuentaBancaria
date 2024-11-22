@@ -50,16 +50,18 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
    git clone https://github.com/Link19661/APIGestionCuentaBancaria.git
    cd APIGestionCuentaBancaria
 ```
+**Pasos Recomendados:**
+- Abrir la solución en Visual Studio 2022
+- Ve a Archivo > Abrir > Proyecto o Solución....
+- Busca el archivo .sln en la carpeta del proyecto clonado (APIGestionCuentaBancaria.sln) y ábrelo.
+- Abrir la terminal integrada (puedes presionar Ctrl + ñ para abrir la terminal.).
+- Ejecutar los siguiente comandos desde la terminal integrada.
+  
 **Instala el proyecto y las dependencias con** **.NET:**
-
 ```bash
   dotnet restore
   dotnet build
   dotnet run
-```
-**Restaurar las dependencias del proyecto:**
-```bash
-   dotnet restore
 ```
 **Compilar el proyecto:**
 ```bash
