@@ -37,7 +37,7 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
 - **.NET 6.0 / .NET 7.0 / .NET 8.0:** Framework de desarrollo utilizado para crear aplicaciones web y servicios en ASP.NET Core.
 - **ASP.NET Core:** Framework para la construcción de API RESTful, utilizado para gestionar las solicitudes HTTP.
 - **Entity Framework Core:** ORM utilizado para interactuar con la base de datos en memoria (InMemory) y realizar operaciones de lectura y escritura.
-- **Base de Datos en Memoria (InMemory):** Usada para pruebas y almacenamiento temporal de datos, útil para desarrollo rápido sin necesidad de configurar una base de datos real.
+- **Base de Datos en Memoria (InMemory):** Usada para pruebas y almacenamiento temporal de datos.
 - **Swagger:** Herramienta para la documentación automática de la API, permitiendo explorar y probar los endpoints de manera interactiva.
 - **XUnit:** Framework de pruebas unitarias utilizado para validar el correcto funcionamiento de la API.
 
