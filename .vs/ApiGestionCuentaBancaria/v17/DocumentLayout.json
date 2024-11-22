@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestioncuentabancaria\\models\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|solutionrelative:apigestioncuentabancaria\\models\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestioncuentabancaria\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|solutionrelative:apigestioncuentabancaria\\models\\transaccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestioncuentabancaria\\services\\icuentabancariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|solutionrelative:apigestioncuentabancaria\\services\\icuentabancariaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestioncuentabancaria\\controllers\\cuentabancariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|solutionrelative:apigestioncuentabancaria\\controllers\\cuentabancariacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestioncuentabancaria\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|solutionrelative:apigestioncuentabancaria\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24ADC3AC-FF67-401E-A581-F0C701EE35E0}|ApiGestionBancariaTesting\\ApiGestionBancariaTesting.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestionbancariatesting\\cuentatesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ADC3AC-FF67-401E-A581-F0C701EE35E0}|ApiGestionBancariaTesting\\ApiGestionBancariaTesting.csproj|solutionrelative:apigestionbancariatesting\\cuentatesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestioncuentabancaria\\services\\itransaccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|solutionrelative:apigestioncuentabancaria\\services\\itransaccionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestioncuentabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|solutionrelative:apigestioncuentabancaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|c:\\users\\jerem\\source\\repos\\apigestioncuentabancaria\\apigestioncuentabancaria\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B60899C-CD79-478C-9E00-43035F3213E9}|ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria.csproj|solutionrelative:apigestioncuentabancaria\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITransaccionService.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Services\\ITransaccionService.cs",
+              "RelativeDocumentMoniker": "ApiGestionCuentaBancaria\\Services\\ITransaccionService.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Services\\ITransaccionService.cs",
+              "RelativeToolTip": "ApiGestionCuentaBancaria\\Services\\ITransaccionService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:36:34.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICuentaBancariaService.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Services\\ICuentaBancariaService.cs",
+              "RelativeDocumentMoniker": "ApiGestionCuentaBancaria\\Services\\ICuentaBancariaService.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Services\\ICuentaBancariaService.cs",
+              "RelativeToolTip": "ApiGestionCuentaBancaria\\Services\\ICuentaBancariaService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:36:01.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Models\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "ApiGestionCuentaBancaria\\Models\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Models\\CuentaBancaria.cs",
+              "RelativeToolTip": "ApiGestionCuentaBancaria\\Models\\CuentaBancaria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:26:53.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CuentaBancariaController.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Controllers\\CuentaBancariaController.cs",
+              "RelativeDocumentMoniker": "ApiGestionCuentaBancaria\\Controllers\\CuentaBancariaController.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Controllers\\CuentaBancariaController.cs",
+              "RelativeToolTip": "ApiGestionCuentaBancaria\\Controllers\\CuentaBancariaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:38:18.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaccion.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Models\\Transaccion.cs",
+              "RelativeDocumentMoniker": "ApiGestionCuentaBancaria\\Models\\Transaccion.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Models\\Transaccion.cs",
+              "RelativeToolTip": "ApiGestionCuentaBancaria\\Models\\Transaccion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:33:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "ApiGestionCuentaBancaria\\Controllers\\TransaccionController.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "ApiGestionCuentaBancaria\\Controllers\\TransaccionController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:37:47.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CuentaTesting.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionBancariaTesting\\CuentaTesting.cs",
+              "RelativeDocumentMoniker": "ApiGestionBancariaTesting\\CuentaTesting.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionBancariaTesting\\CuentaTesting.cs",
+              "RelativeToolTip": "ApiGestionBancariaTesting\\CuentaTesting.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAIA+wBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:01:06.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGestionCuentaBancaria\\Program.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Program.cs",
+              "RelativeToolTip": "ApiGestionCuentaBancaria\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:39:29.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiGestionCuentaBancaria\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jerem\\source\\repos\\ApiGestionCuentaBancaria\\ApiGestionCuentaBancaria\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ApiGestionCuentaBancaria\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:37:17.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

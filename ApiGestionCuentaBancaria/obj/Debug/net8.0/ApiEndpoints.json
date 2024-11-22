@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "ApiGestionBancaria.Controllers.CuentaBancariaController",
+    "Method": "GetCuentaBancariaById",
+    "RelativePath": "api/CuentaBancaria/Consultar{numeroCuenta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroCuenta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBancaria.Controllers.CuentaBancariaController",
+    "Method": "AddCuentaBancaria",
+    "RelativePath": "api/CuentaBancaria/CrearCuenta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuenta",
+        "Type": "ApiGestionBancaria.Models.CuentaBancaria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBancaria.Controllers.CuentaBancariaController",
+    "Method": "AddDeposito",
+    "RelativePath": "api/CuentaBancaria/Deposito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaccion",
+        "Type": "ApiGestionBancaria.Models.Transaccion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBancaria.Controllers.CuentaBancariaController",
+    "Method": "GetCuentas",
+    "RelativePath": "api/CuentaBancaria/ObtenerCuenta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBancaria.Controllers.CuentaBancariaController",
+    "Method": "AddRetiro",
+    "RelativePath": "api/CuentaBancaria/Retiro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaccion",
+        "Type": "ApiGestionBancaria.Models.Transaccion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestionBancaria.Controllers.TransaccionController",
+    "Method": "GetTransaccionesByCuenta",
+    "RelativePath": "api/Transaccion/Consultar{numeroCuenta}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroCuenta",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

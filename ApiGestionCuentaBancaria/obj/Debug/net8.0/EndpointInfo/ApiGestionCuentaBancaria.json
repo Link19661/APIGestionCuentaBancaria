@@ -1,0 +1,219 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ApiGestionCuentaBancaria",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/CuentaBancaria/CrearCuenta": {
+      "post": {
+        "tags": [
+          "CuentaBancaria"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CuentaBancaria"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CuentaBancaria"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CuentaBancaria"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CuentaBancaria/ObtenerCuenta": {
+      "get": {
+        "tags": [
+          "CuentaBancaria"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CuentaBancaria/Consultar{numeroCuenta}": {
+      "get": {
+        "tags": [
+          "CuentaBancaria"
+        ],
+        "parameters": [
+          {
+            "name": "numeroCuenta",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CuentaBancaria/Deposito": {
+      "post": {
+        "tags": [
+          "CuentaBancaria"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Transaccion"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Transaccion"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Transaccion"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CuentaBancaria/Retiro": {
+      "post": {
+        "tags": [
+          "CuentaBancaria"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Transaccion"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Transaccion"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Transaccion"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Transaccion/Consultar{numeroCuenta}": {
+      "get": {
+        "tags": [
+          "Transaccion"
+        ],
+        "parameters": [
+          {
+            "name": "numeroCuenta",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "CuentaBancaria": {
+        "required": [
+          "nombre",
+          "saldo"
+        ],
+        "type": "object",
+        "properties": {
+          "numeroCuenta": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "maxLength": 100,
+            "type": "string",
+            "nullable": true
+          },
+          "saldo": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Transaccion": {
+        "required": [
+          "monto",
+          "numeroCuenta",
+          "tipoTransaccion"
+        ],
+        "type": "object",
+        "properties": {
+          "numeroCuenta": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tipoTransaccion": {
+            "type": "string",
+            "nullable": true
+          },
+          "monto": {
+            "minimum": 0,
+            "type": "number",
+            "format": "double"
+          },
+          "saldoDisponible": {
+            "type": "number",
+            "format": "double"
+          },
+          "fecha": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

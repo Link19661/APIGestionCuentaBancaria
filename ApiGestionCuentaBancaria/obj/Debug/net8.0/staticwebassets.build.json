@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "76P9rBxU8ejhsHkAIe1fUfoRa2JWeTcl3b7JcIRKh1c=",
+  "Source": "ApiGestionCuentaBancaria",
+  "BasePath": "_content/ApiGestionCuentaBancaria",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
