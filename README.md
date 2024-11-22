@@ -40,6 +40,7 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
 - **Base de Datos en Memoria (InMemory):** Usada para pruebas y almacenamiento temporal de datos.
 - **Swagger:** Herramienta para la documentación automática de la API, permitiendo explorar y probar los endpoints de manera interactiva.
 - **XUnit:** Framework de pruebas unitarias utilizado para validar el correcto funcionamiento de la API.
+- **Visual Studio 2022:** Entorno de desarrollo integrado (IDE) utilizado para escribir, depurar y ejecutar el proyecto.
 
 
 ## Instalación
