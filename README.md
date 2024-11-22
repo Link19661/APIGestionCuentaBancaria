@@ -3,11 +3,6 @@
 
 Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **depósito y retiro**. A través de esta API, los usuarios pueden **crear cuentas bancarias**, realizar depósitos y retiros, y consultar las **transacciones** asociadas con una cuenta específica.
 
-
-## Demo
-
-[Demo](htttps://#)
-
 ## Screenshots
 ![App Screenshot](ApiGestionCuentaBancaria/assets/screenshots/inicio.png)
 
