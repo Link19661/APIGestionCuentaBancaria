@@ -48,7 +48,6 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
 **Clona el repositorio en tu máquina local:**
 ```bash
    git clone https://github.com/Link19661/APIGestionCuentaBancaria.git
-   cd APIGestionCuentaBancaria
 ```
 **Pasos Recomendados:**
 - Abrir la solución en Visual Studio 2022
@@ -59,6 +58,7 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
   
 **Instala el proyecto y las dependencias con** **.NET:**
 ```bash
+  cd APIGestionCuentaBancaria
   dotnet restore
   dotnet build
 ```
