@@ -61,15 +61,11 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
 ```bash
   dotnet restore
   dotnet build
-  dotnet run
-```
-**Compilar el proyecto:**
-```bash
-   dotnet build
 ```
 **Ejecutar la API:**
 ```bash
-   dotnet run
+  Ejecuta dotnet run
+  O Presiona Ctrl + F5
 ```
 ## API Referencia
 
