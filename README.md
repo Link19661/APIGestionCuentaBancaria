@@ -152,10 +152,11 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
 **Respuesta Esperada:**
 ```bash
 {
-    "Id": 1,
     "NumeroCuenta": 1234,
-    "Nombre": "Jeremy Silva",
-    "Saldo": 1000
+    "TipoTransaccion": "Depósito",
+    "Monto": 500,
+    "SaldoDisponible": 1500,
+    "Fecha": "2024-11-21T12:30:00"
 }
 ```
 **Realizar un Retiro:**
@@ -172,10 +173,11 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
 **Respuesta Esperada:**
 ```bash
 {
-    "Id": 1,
     "NumeroCuenta": 1234,
-    "Nombre": "Jeremy Silva",
-    "Saldo": 1000
+    "TipoTransaccion": "Retiro",
+    "Monto": 300,
+    "SaldoDisponible": 1200,
+    "Fecha": "2024-11-21T13:00:00"
 }
 ```
 **Consultar Transacciones:**
