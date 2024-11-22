@@ -209,5 +209,6 @@ Ejecuta el siguiente comando de **.NET**
 
 ```bash
   dotnet test
+  O puedes ejecutarlas directamente desde el entorno de pruebas.
 ```
 
