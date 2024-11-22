@@ -26,6 +26,8 @@ Esta **API permite gestionar cuentas bancarias** y realizar operaciones de **dep
 
 ![App Screenshot](ApiGestionCuentaBancaria/assets/screenshots/ConsultaSaldo.png)
 
+![App Screenshot](ApiGestionCuentaBancaria/assets/screenshots/Pruebas.png)
+
 ## Funciones
 
 - **Crear una Cuenta Bancaria:** Permite crear una cuenta bancaria con un número de cuenta generado automáticamente, un saldo inicial y el nombre del titular.
